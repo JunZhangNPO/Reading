@@ -15,3 +15,14 @@ based on silos, rather than a sector-wide, approach
 Thoughts:
 track the growth of a discipline from textbooks 
 practioners write textbook 
+
+**Chapter 6**
+- unrelated individuals who have common interests gravitate together to create groups and associations P.6
+- Dartmouth v. Woodward  
+
+**Chapter 14 The Image in Movies 1938-1995**
+- broad public-at-large
+- the image of profession in popular culture
+- cinematic image of the nonprofit sector in general
+- maciavellian vs. collegial
+- 
