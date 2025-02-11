@@ -18,12 +18,14 @@
 **What**
 - United Nations: Handbook on Non-Profit Institutions in the System of National Accounts (How to classify NPO)
 - Frumkin, P. (2005). On being nonprofit: A conceptual and policy primer. Harvard University Press.
+- Ott, J. S., & Dicke, L. A. (Eds.). (2016). The nature of the nonprofit sector (3rd ed.). Westview Press.
   
 **Economy**
 - Weisbrod, B. A. (1991). The nonprofit economy. Harvard University Press. ISBN: 9780674626263.
 
 **Business-like**
 - Weisbrod, B. A. (Ed.). (1998). To profit or not to profit: The commercial transformation of the nonprofit sector. Cambridge University Press. https://doi.org/10.1017/CBO9780511625947
+- Hansmann, H. (2000). The ownership of enterprise. Harvard University Press.
 
 **Relationship with Government**
 - Boris, E. T., & Steuerle, C. E. (2017). Nonprofits and government: Collaboration and conflict (3rd ed.). Rowman & Littlefield. https://rowman.com/ISBN/9781442271791/Nonprofits-and-Government-Collaboration-and-Conflict-Third-Edition
@@ -31,3 +33,4 @@
 **Civil Society**
 - Hodgkinson, V. A., & Foley, M. W. (Eds.). (2003). The civil society reader. University Press of New England.
 - Skocpol, T. (2003). Diminished democracy: From membership to management in American civic life. University of Oklahoma Press. ISBN: 9780806135328.
+- Eliasoph, N. (2011). Making volunteers: Civic life after welfare's end. Princeton University Press.
