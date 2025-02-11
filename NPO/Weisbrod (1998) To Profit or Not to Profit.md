@@ -21,23 +21,45 @@
 
 
 **Chapter 1**
-P5: It is possible that competition could sharpen distinctions, leading to increasingly different market inches for nonprofits and for-profits.
+- P5: It is possible that competition could sharpen distinctions, leading to increasingly different market inches for nonprofits and for-profits.
 
-P7: when nonprofits expand, governments lose revenue. respond to erosion of their tax revenue. 
-case: nonprofits work with state government to market automobile license plates 
+- P7: when nonprofits expand, governments lose revenue. respond to erosion of their tax revenue. 
+- case: nonprofits work with state government to market automobile license plates 
+- entwining of mission and revenue sources 
 
-entwining of mission and revenue sources 
+**Chapter 2**
+- ease of entry 
+- bargaining power of buyers 
+- bargaining power of suppliers of nonprofit inputs
+- availability of substitute products or services 
+- rivalry among competitors 
 
-Chapter 2
-ease of entry 
-bargaining power of buyers 
-bargaining power of suppliers of nonprofit inputs
-availability of substitute products or services 
-rivalry among competitors 
+**Chapter 3 Multiproduct firm: a framework for choice (Burton A. Weibrod)**
+- multiproduct firm 
+- stepped-up involvement in commericial activities
+- "commercial activities"-profit oriented actions in forms and degrees associated with private firms
+- nonprofits provide: a preferred collective good; a preferred private good; a nonpreferred private good.
+- revenue sources influence output decisions, and output decisions in turn influence revenue availability
+- 
+**Question** 
+- how to measure "aggressively"
 
-Chapter 3 
-multiproduct firm 
+**Chapter 4 Pricing and Rationing**
+- various pricing
+- allocation mechanisms: for whom they do it 
+- Table4.1 & 4.2 
+- It is important to dertermine whether, and under what conditions, nonprofits are effective mechanisms for expressing complex social goals involving output distribution. 
+**Thoughts**
+  - The way nonprofits engage in commericial activities is different from for-profits. Set prices and design nonprice allocation mechanisms on a different basis 
 
-question 
-how to measure aggressively 
-nonprofits provide: a preferred collective good; a preferred private good; a nonpreferred private good.
+**Chapter 5 Differential Taxation and Commericialization**
+- Unrelated Business Income Taxes (UBIT); UBIT return 
+- commercial share = program service revenue as a fraction of total revenue
+- cost complementarities
+- ancillary goods
+
+**Chapter 6 Interdependence of commericial and donative revnues**
+- contributions, gifts, and grants vs. program service revenues
+- mission relatedness
+
+**Chapter 7 Conversion from nonprofit to for-profit legal status**
