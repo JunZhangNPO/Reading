@@ -16,3 +16,20 @@
 ### **Question**  
 **How could the period of funding make a difference?**  
 
+- government funding immediately contaminates voluntary associations' nature and is self defeating. p.15
+- 
+### Chapter 2 Cultivating Open Civic Equality
+- Different motivations/functions for involving in the enpower project. Disadvantaged group: preventing them from being a problem; non-disadvantged group: admission to universities.
+- VJ assumed that Raul was in another category. P.27
+- with different invitations in hand p.47 
+
+### **Question**  
+**Is community building always a good thing? Will it lead to segragation? Becasue communities are usually in the same class and race.**
+**Is helping others a privilege?**
+
+### Chapter 3 Puzzles of Using Volunteering to Cure the Volunteer's Problems 
+- For leadership, you have to know what it is to be lost. Leadership: It is failing. Failing everyday.  
+
+### Chapter 4 Puzzles of Timing 
+- The timing of writing application and get funding (make some projects disadvantaged), a temporaleapfrog. P.55
+- 
