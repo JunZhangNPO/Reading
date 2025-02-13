@@ -34,3 +34,8 @@
 - Hodgkinson, V. A., & Foley, M. W. (Eds.). (2003). The civil society reader. University Press of New England.
 - Skocpol, T. (2003). Diminished democracy: From membership to management in American civic life. University of Oklahoma Press. ISBN: 9780806135328.
 - Eliasoph, N. (2011). Making volunteers: Civic life after welfare's end. Princeton University Press.
+
+**For Practitioners**
+- Thomas Wolf. Managing a Nonprofit Organization: Updated Twenty-First-Century Edition.Free Press, New York. 2012. LOC HD62.6.W649.
+- Lee Bolman and Terrence Deal. Reframing Organizations. Jossey-Bass, 2013. LOC HD31.B6135.
+- Laura Fredricks. The Ask: How to Ask Anyone for Any Amount for Any Purpose. Jossey-Bass,San Francisco, 2006. LOC HG177.F68. (fundraising)
