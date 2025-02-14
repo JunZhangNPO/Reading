@@ -32,4 +32,27 @@
 
 ### Chapter 4 Puzzles of Timing 
 - The timing of writing application and get funding (make some projects disadvantaged), a temporaleapfrog. P.55
-- 
+- A grant seeks "lead to measureable outcomes and impact" p.63
+- Volunteers as clients
+- Drawing on community to create community
+- The word "choice" was supposed to invite youth to take responsibility for their action and to see they could have done otherwise
+  Sometimes this seemed harmless, and possibily respectful, but sometimes, it was a way of blaming the viticm.
+- "how" to make good choices
+- The mission of helping the needy volunteers and effectively helping others clashed. P.83
+
+   ## **Thoughts**
+  - It is a socilogical perspective: structural problem but not individual fault
+ 
+   ### Chapter 5 Democracy Minus Disagreement, Civic Skills Minus Politics, Blank "Reflections
+  - Projects about which humane person would agree (some technique service) -- "no brainers" P.87
+  - The absence of reflection and disagreement erased "the bigger picture," and made problems seem eternal. p.87
+  - Participation did not challenge participants'imagination or opinions.p.88
+  - Civic and political engagement disconnected. p.114
+
+    ### Chapter 7 Paid Organizers Creating Temporally Finite, Intimate, Family-like Attachments
+    - They are not family.
+    ### Chapter 8 Publicly Questioning Need
+    - All attachments and needs had to be justified so constantly and publicly. p.152
+    - 
+    
+
