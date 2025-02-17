@@ -56,3 +56,19 @@
 - the image of profession in popular culture
 - cinematic image of the nonprofit sector in general
 - maciavellian vs. collegial
+
+**Chapter 15 Volunteer Image**
+- cinematic portrayal of volunteers
+- the way of management in human resources
+- volunteer manager in nominal charge since 1988
+- most cinematic volunteers were skeptical of volunteering intially but grew into the experience
+
+**Chapter 16 A Future History of The American Nonprofit Sector**
+- I wonder if the sector is becoming too professionalized, too specialized, too consolidated, and too dense? 326
+- The diminution of volunteerism probably also reflects social trends and changes in lifestyles. p.328
+- There is a need to return to people-oriented, people-based, and people-benefiting entities. p.329
+- depersonalized nonprofits
+
+**Notes**
+- It is not all about professionalization, but also about history, communication, and image. 
+- A combination of theoretical insights and practical experience. 
