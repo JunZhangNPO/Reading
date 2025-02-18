@@ -1,4 +1,4 @@
-
+**Introduction**
 - Economic and Management Perspective 
 - cross-fertilization
 - experimental economics; internation area; insight from psychology 
@@ -9,3 +9,6 @@
 - closing USAID as a shock
 - economic concepts for management analysis
 - motivation, assumption 
+
+
+**Chapter 1 Income Diversification**
