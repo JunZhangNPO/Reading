@@ -63,5 +63,15 @@
   commericial revenue have risen. p.37
 - nonprofit managers' strategy; donors' behavior; organizational level analysis
 
-  
+
+### Chapter 3: Distribution Policies of Private Foundations 
+
+- a section 501(c)(3) organization whose financial support is provided by a small group of people
+- the minimum distribution requirement, which requires 5% of their assets on charitable grants, dual tax rate regime 
+- https://www.irs.gov/statistics/soi-tax-stats-soi-bulletins
+- Non-operating private foundation, Payout rate, 5%
+- a private foundation faces a 2% tax on its net investment income.
+- a qualifying distribution is either a grant made to a public charity or an administrative expenditure related to the foundation's charitable activities
+- grants recipients: social welfare, health, scientific purposes, education, cultural and religious purpose 
+- 
 - 
