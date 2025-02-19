@@ -73,5 +73,84 @@
 - a private foundation faces a 2% tax on its net investment income.
 - a qualifying distribution is either a grant made to a public charity or an administrative expenditure related to the foundation's charitable activities
 - grants recipients: social welfare, health, scientific purposes, education, cultural and religious purpose 
-- 
+
+### Chapter 4: Capital Formation
+- capital: as the funds gathered and accumulated for the purpose of spending on what are most frequently relatively large projects.p.59
+- external capital-debt, such as bank loans, mortgage loans, municipal bonds, below-market-rate loans, loan guarantees and linked deposists; program
+  related investments,
+- internal capital-accumulated internally generated cash 
+
+#### *Externally Supplied Capital*
+- "pecking order" theory: an organization will have a preference for certain types of financing
+- "static trade-off" theory: trade off the benefits of debt against its costs and arrives at the optimal amount of debt relative to capital stock
+- These two theories come from the profit sector and could not be applied to the nonprofit setting directly.
+*debt*
+- a financial instrument that permits and organization to use someone else' s cash for a period of time. p.61
+- inflation & real returns
+- research on hospital
+*Program-related investments and equity equivalents*
+- capital provided by donors (typically foundations) and given to nonprofits in order to fund specific projects or programs. p.62
+- count towards foundations' 5% payout requirements
+- PRIs vs. traditional grant: return to foundation as some later date; specific needs, such as building credit history for nonprofits; minmize depletion of their endowment capital. p.62
+- as a guarantee for a commericial loan made to a nonprofit
+
+#### *Internally Supplied Capital*
+- retained earnings
+- utility of donors
+
+#### *Previous Research*
+- Debt: is the pecking-order or the trade-off theory appropraite?
+- PRIs and equity equivalents: what equity means; agency problems
+- Internal Capital Markets
+
+ #### *Research Gap*
+ - Why: historically not interested; no good data
+ - profit maximizing paradigm
+ - IRS Form contains few data on various internal projects
+
+### Chapter 5: Asset Composition
+- ennormous range and variation
+
+ #### *What we think we know?*
+*Liquidity*
+- cash, cash equivalents receivables, inventory, marketable securities, prepaid expenses
+- special ones: gifts receivable, grants receivable
+- holding marketable securities, larger cash position than for-profits
+- quick ratio: cash, cash equivalents and various receivables divided by current liabilities
+- Nearly half of nonprofits have no current liabilities. p.70
+- Quick assets: cash + savings + receivables; Unrestricted Quick Assets = Quick Assets - Temporarily restricted net assets
+- ROA: return on assets; asset managers control risk by diversifying assets
+- Data: 990 allows us to assess the balance between LBE and securities  
+- The difference between assets and liabilities is net assets
+
+*Asset Paritioning*
+- Goal: to reduce the overall cost of credit when dealing with a heterogenous group of creditors
+- One in ten public charities manage assets through section 509(a)(3). p.73
+
+#### *What we do not know?*
+*Ineraction of Capital Structure and Business Models*
+- capital structure: a balance-sheet concept, mix of assets and liabilities; business model: an income concept, revenue creation and revenue mix
+- The organization's business - in contrast to its mission - that is the key determinant of its particular asset allocation p.74
+- Ownership has an impact on capital structure.p.74
+*Restricted and Other Priviledged Assets*
+- Upon dissolution, a section 501(c)(3) organization must transfer its remaining assets to another section 501(c)(3), restricting the right to alienate
+- Previledged assets: may or may not be restricted in the legal sense; economic returns may be negative.
+- LBE: Land, building, and equipment (LBE) 
+  *Endowment and Restricted Assets*
+ - free-standing endowment
+ - Endowment does double duty as part of nonprofit's capital structure and as a revenue generator p.76
+ - Endowment promotes equity over market efficiency and institutional immortality over market opportunism p.76
+ - Intergenerational equity
+   *The Perplexing Double Bottom Line* 
+ - ROA: Return on Assets; XROA: External Return on Assets 
+ - Bills to pay, concern with making money + public-benefit mission
+ - Having two goals introduces ambiguity into decision problems, inviting inconsistent policies. p.77
+
+#### *Gaps in our knowledge*
+- Investment assets and mission-related assets
+- measurement problems becasue of double bottom line illustrates
+- Ideological barriers: are endowments wasteful?
+
+#### *Future Direction*
+- The temptation to form premature theories upon insufficient data is the bane of our profession. p.79
 - 
