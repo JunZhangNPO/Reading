@@ -153,4 +153,15 @@
 
 #### *Future Direction*
 - The temptation to form premature theories upon insufficient data is the bane of our profession. p.79
-- 
+
+### Chapter 6: Collaboration versus Competition in the third sector 
+- Collaboration is important but not popular
+
+#### *Competition for clients when revenue is generated from prices*
+- fee-based product; perfect competition model
+- service maximization but not profit maximization; maximize outcomes, not profits
+- cross-subsidize, suit the overall mission with a multi-product organization
+- segmented market, inefficient high-cost level 
+- compete by increasing cost of fundraising, trained professionals.
+- the degree of market concentration;
+- the potential effects on market or sector concentration of the higher fundraising costs addressed in this section 
