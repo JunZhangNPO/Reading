@@ -167,3 +167,53 @@
 - compete by increasing cost of fundraising, trained professionals.
 - the degree of market concentration;
 - the potential effects on market or sector concentration of the higher fundraising costs addressed in this section 
+
+#### *Competition for paid staff and volunteers*
+- Increased salary of nonprofit executives
+- managerial strategies for luring and retaining valuable volunteers
+- The trade offs between pleasing the volunteer and benefiting the organization
+
+#### *Competition for grants and contracts*
+- Limited research on this topic
+- insufficient money for administrative expenses contracts - a private sector subsidy of government objectives
+- a bidding war, promising much and pricing their services low in an effort to win the grant or contract
+
+#### *Competition for media coverage*
+- mission involves educating the public
+- clamor for media coverage to gain legtimacy in the public's mind for their mission and to attract new supporters
+
+#### *Collaboration in the nonprofit sector*
+- a continuum of collaboration
+- Is "contracting" a simple exchange of funding for services, or is it more like collaboration? p.89
+- share the information: associational collaboration; information about clients; trading best practices
+- cost minimization: share fixed costs with other organizations; variable costs can also be reduced through alliances; fundraising events; group workshops
+- Trade: differing assets create potential for trade; comparative advantage
+- Bartering: occur more often in the nonprofit sector; production without cash expenditure expenditure; more collaborative than monetized trade
+- Does the potential reduction in costs or enhancement of revenue exceed the transactions costs of collaborating? Collaboration takes time - the
+  nonprofit manager's most precious commodity. p.92
+- Improving community outcomes: why is there a need for an arranged marriage if the potential outcomes are aligned with each organization's mission?
+  Each party may be unable to see directed benefits to their own organization. individual accountability vs. mutual accountability p.92
+- It is the nature of the players that can make the process easy or difficult. p.93
+- Strategic grant making
+#### *Concluding remarks*
+- external impetus for collaborative effort
+- align organizational incentives with intended outcomes
+- united to advocacy
+
+### Chapter 7: Market with competition between for-profit and nonprofit firms 
+- health care; credit union; day care
+- economic, legal environment
+
+#### *Reasons for implication*
+- Firms to be a nexus of contracts
+- nondistribution constraint: a reduced reward from skimping on quality; contraining opportunistic behavior 
+- contracts based argument: nonprofits have advantage in the provision of "trust-goods"; people really care about this in some markets, such as day care
+- Altruistic concern for distant others
+
+#### *Nonprofit Incorporation and its advanatge*
+- confer nonprofit status
+- Historical influence
+- the scope of markets in which nonprofits might choose to operate
+  
+  
+
