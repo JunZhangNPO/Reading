@@ -132,11 +132,13 @@
 - capital structure: a balance-sheet concept, mix of assets and liabilities; business model: an income concept, revenue creation and revenue mix
 - The organization's business - in contrast to its mission - that is the key determinant of its particular asset allocation p.74
 - Ownership has an impact on capital structure.p.74
+  
 *Restricted and Other Priviledged Assets*
 - Upon dissolution, a section 501(c)(3) organization must transfer its remaining assets to another section 501(c)(3), restricting the right to alienate
 - Previledged assets: may or may not be restricted in the legal sense; economic returns may be negative.
-- LBE: Land, building, and equipment (LBE) 
-  *Endowment and Restricted Assets*
+- LBE: Land, building, and equipment (LBE)
+  
+*Endowment and Restricted Assets*
  - free-standing endowment
  - Endowment does double duty as part of nonprofit's capital structure and as a revenue generator p.76
  - Endowment promotes equity over market efficiency and institutional immortality over market opportunism p.76
