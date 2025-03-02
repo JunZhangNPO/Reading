@@ -215,5 +215,9 @@
 - Historical influence
 - the scope of markets in which nonprofits might choose to operate
   
-  
+#### *The coexistence of for-profit and nonprofit firms*
+- scarity limits the size of the otherwise dominant organizational form
+- heterogeneity in demand
+- nonprofit firms as being financed and run by donor-managers
+- donor entrepreneurs p.99
 
