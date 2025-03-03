@@ -221,3 +221,78 @@
 - nonprofit firms as being financed and run by donor-managers
 - donor entrepreneurs p.99
 
+### Chapter 9: Modeling Nonprofit  Behavior 
+
+
+#### *Concluding*
+- nonprofit executive compensation and organizational performance 
+- Nonprofit and product/service quality
+- Data Development Analysis 
+
+### Chapter 12: Contracting out 
+- the devolution of the US government
+- Charitable nonprofit organizations also contract out for services
+- hire indepedent contractors or outsourcing functions
+- Contracting: the design and implementation of contractal relationships between purchases and suppliers (Domberger, 1998, p.12) p.169
+
+
+#### *The relative importance*
+- contracting for services shows the diversity of the nonprofit sector
+- infrastructure, leadership and culture influence whether to contract out core functions
+- size (total revenue) matters: as the total revenue amounts went up, so did dollars spent on contracted services
+- specialization: mostly IT, marketing, fundraising and management consulting
+- Relationship: what to contract for and who to contract from
+- The process is seamless: stakeholders are not aware of this relationship
+
+### Chapter 13: Product Diversification and Social Enterprise 
+
+- multi-product nonprofits
+- the collective nature of its output
+- a single product could have multi-purpose 
+
+#### *Broadening the product portfolio*
+
+*The framework*
+- social value produced by the core product
+- How might a new product addition increase the value created by a nonprofit in delivering its core mission?
+- Value creation comes from the difference between willingness to pay and the sum of opportunity costs.
+- new product or service comes from the central mission product of the nonprofit 
+
+*Product extensions that raise willingness to pay*
+- promote the old mission in a changed world; scalability
+- production of complementary goods  
+- Social Affirmative Business: use labor from disabled or disadvantaged individuals to produce goods or services
+
+*Economies of Scope to crate value*
+- use of fixed assets and in brand extension activities
+- successful product extensions: the brand has strong salience & the spillovers are positive 
+- reputational capital
+
+#### *Managerial Challenges* 
+- The Boston Consulting Group Matrix (BCG Matrix) / product portfolio matrix
+*The earned-income vebture*
+- explicit goal of raising revenues to support nonprofit operation
+- Nonprofits are more labor-intensive, run with flatter organizations, use more consensus decision making and more professional reference points p.206
+- unrelated business income tax
+
+*Concluding Remarks*
+- difficulty in abndoning product lines
+
+#### *Questions and thoughts* 
+- How products are upgraded
+
+
+### Chapter 22: Government Funding Policies 
+
+#### *Concluding remarks and outlook*
+- bureaucratic capacity
+- marshal counterfactual conditions
+- the influence on board size, composition and performance. Kramer (1981) argued the constant need to raise funds can also be a source of mission deflection
+- resource depedence is an issue for public as well as private funding. whether there is a "magic number" (as a percentage of revenues) at which
+  an organization becomes depedent and at exactly whatlevels of government funding do which pathologies occur.
+- Solution: diversify revnues
+- The issue of coercive philanthropy (Brustein, 2000). Any pathologies specific to governmental funding rather than being natural results of general resource depedence.
+- Vendorism; purchase of service; limited concern for certain fields: arts, education, and health literatures
+- Rarely contract-based, grants or fee reimbursements are more common.
+- The purpose is to enable delivery of specific, government-defined services.
+- High levl of bureaucratization are required to be able to compete for contracts. 
