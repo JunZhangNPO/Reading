@@ -235,7 +235,6 @@
 - hire indepedent contractors or outsourcing functions
 - Contracting: the design and implementation of contractal relationships between purchases and suppliers (Domberger, 1998, p.12) p.169
 
-
 #### *The relative importance*
 - contracting for services shows the diversity of the nonprofit sector
 - infrastructure, leadership and culture influence whether to contract out core functions
@@ -243,6 +242,20 @@
 - specialization: mostly IT, marketing, fundraising and management consulting
 - Relationship: what to contract for and who to contract from
 - The process is seamless: stakeholders are not aware of this relationship
+
+#### *Examples*
+- health organization  outsource billing and collections
+- financial management services (related to the growth of donor-advised funds and venture philanthropy within community foundation)
+- professional fundraisers / consultant
+- higher education institutions; arts organization; museums 
+
+#### *What we do not know*
+- organizational influential factors; external environment
+- consequence: accountability, relationship, performance 
+
+#### *Questions*
+- What's the boundary between contracting and buying?
+
 
 ### Chapter 13: Product Diversification and Social Enterprise 
 
