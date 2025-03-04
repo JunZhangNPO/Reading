@@ -26,6 +26,7 @@
 **Business-like**
 - Weisbrod, B. A. (Ed.). (1998). To profit or not to profit: The commercial transformation of the nonprofit sector. Cambridge University Press. https://doi.org/10.1017/CBO9780511625947
 - Hansmann, H. (2000). The ownership of enterprise. Harvard University Press.
+- Lee, M. (2024). A history of the American nonprofit sector: The rise and professionalization of doing good. Cambridge Scholars Publishing.
 
 **Relationship with Government**
 - Boris, E. T., & Steuerle, C. E. (2017). Nonprofits and government: Collaboration and conflict (3rd ed.). Rowman & Littlefield. https://rowman.com/ISBN/9781442271791/Nonprofits-and-Government-Collaboration-and-Conflict-Third-Edition
