@@ -221,13 +221,40 @@
 - nonprofit firms as being financed and run by donor-managers
 - donor entrepreneurs p.99
 
-### Chapter 9: Modeling Nonprofit  Behavior 
+
+### Chapter 8: Nonprofit Wages
+#### *Introduction*
+- homogeneity of the workers; large varity of firms
+- nonprofit workers: highly educated, professional, service industry
+- relative low level of compensation
+- non-501(c)(3) nonprofit organizations: labor union, farm cooperative, cemetery company, mutual insurance company
+- tax-deductible donations and exemption from sales and property taxes 
+
+#### *Economic Theory and Nonprofit Wages*
+- differing legal treatment of nonprofit organizations 
+- as a response to information asymmetries
+
+#### *Literature Review*
+- industry-based studies
+- Differentials by gender: a high degree of equality within the sector 
+
+#### *Concluding remarks*
+- The average nonprofit worker, a highly educated, professional woman working in a service industry, looks very similar to a government worker along all dimensions except salary. p.117
+- labor donation hypothesis: for socially beneficial work
+- property rights hypothesis: nonprofit managers will pay higher than market wages -- little evidence
+- data should measure social benefits, information flow, level of competition, and quality of service by industry and sector 
+
+### Chapter 9: Modeling Nonprofit Behavior 
 
 
 #### *Concluding*
 - nonprofit executive compensation and organizational performance 
 - Nonprofit and product/service quality
 - Data Development Analysis 
+
+
+### Chapter 10: Pricing Strategies 
+- 
 
 ### Chapter 12: Contracting out 
 - the devolution of the US government
