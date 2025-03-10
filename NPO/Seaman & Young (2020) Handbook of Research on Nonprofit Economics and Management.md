@@ -254,8 +254,28 @@
 
 
 ### Chapter 10: Pricing Strategies 
-- 
+- different segments of the nonprofit sector
+- demand side
+- voluntary price discrimination via donations
+- capacity constraints and congestion 
+- Seat Enforcement Problem: challenge in implementation, such as unauthorized seating, inefficient enforcement, and underutilization
+#### *General Agreement*
+- Issues: Should nonprofits charge positive prices? How should prices be structured?
+- Prices for primary "social mission" or fees designed to generate earned income and subsidize the primary mission
+- pricing in reducing congestion and rationing usage when capacity is constrained; various differential pricing and product-boundling strategies can generate additional revenues
+- The role that positive prices can play in changing and improving the behavior of specific clients; price reductions can reduce demand when price is a proxy for quality; positive prices, even low, can increase the dignity of the client and then enhance the nonprofit mission
+- Areas we know quite a lot: market power and competitive considerations are important; unique price discrimintation; internal cross-subsidization；
+  uncertainty and demand fluctuations have similar effects on the pricing strategies
+### Conflicting results and unexplored questions 
+- The psychological role that pricing may have on clients
+- efficiency difference in the nonprofit organizations and for-profit organizations in the same field.
+- collusion versus competition, mini-monopolists
 
+ ### Future Research 
+ - Hnasmann identifies voluntary donations as the most effective way to price-discriminate
+ - When fixed costs are high relative to audience size
+ - Mean price discrimination 
+  
 ### Chapter 12: Contracting out 
 - the devolution of the US government
 - Charitable nonprofit organizations also contract out for services
