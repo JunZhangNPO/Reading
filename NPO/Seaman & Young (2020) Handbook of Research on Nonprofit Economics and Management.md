@@ -275,7 +275,33 @@
  - Hnasmann identifies voluntary donations as the most effective way to price-discriminate
  - When fixed costs are high relative to audience size
  - Mean price discrimination 
+
+### Chapter 11: Risk Management 
+- use of incentives to minimize the risk of loss & increase the output potential
+- no residual claimants; monitors who oversee the actions of managers
   
+#### *Theory*
+- not only insurance; use of technology; savings; market-based products
+- Risk is a necessary input in the cost; the ability of the firm to bear risk
+- a different objective function:
+- risk-averse preference; risk premium
+- Atomistic investor；market frictions;
+- Risk management process: risk identification and assessment; risk quantification; risk aggregation into a portfolio; strategic acceptance of risk, risk control and risk financing; return to step 1.
+- real insurance services; 
+
+#### *Risk Management Process*
+- reputational; operational; financial; credit; market; environmental; regulatory; strategic
+- The dimension of severity & probability 
+
+#### *The Strategic Use of Risk Management*
+
+
+#### *Conclusion*
+- founded on reduction of agency costs, tax costs, and bankrupty cost. The latter two are inrelevant to nonprofits.
+- The goal is to reduce the cost rather than eliminate the risk.
+- impact on comparative advantage 
+
+
 ### Chapter 12: Contracting out 
 - the devolution of the US government
 - Charitable nonprofit organizations also contract out for services
