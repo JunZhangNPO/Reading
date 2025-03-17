@@ -2,7 +2,7 @@
 **Nonprofit Studies: Are We an Academic Discipline?**  
 
 ## *Introduction*  
-- 1975: Filer Commission Report  
+- 1975: Filer Commission Report (Report of the Commission on Private Philanthropy and Public Needs)
 - An academic discipline: the organization of learning and the systematic production of new knowledge  
 
 ## *Defining an Academic Discipline (Krishnan, 2009)*  
