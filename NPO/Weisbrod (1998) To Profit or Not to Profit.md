@@ -63,3 +63,29 @@
 - mission relatedness
 
 **Chapter 7 Conversion from nonprofit to for-profit legal status**
+**Introduction: Conversion as the ultimate commercialism**
+- circumstances; assets valued; after conversion
+
+**What**
+- If the nonprofit ceases to exist, where should these charitable assets go?
+- The control over assets or responsibility for liabilities
+- transfer control to a private firm
+- various forms: the nonprofit mutual-benefit corporation, the assets are privately owned
+- conversion is a matter of degree
+
+**Motivates**
+- model organization behavior as the maximization of an objective function subject to contraints
+- Nonprofits possess certain tax advantages but lack access to equity capital, and they are legally restricted by the nondistribution constraint
+  (Hansmann 1980).
+- Buyers might regard nonprofits as more trustworthy and prefer to purchase from them.
+
+ **Why do conversions occur**
+ - focus on the process
+ - A useful working hypothesis is that changes in legal constraints or market opportunities are the primary cuase
+ - Organizational goals or preferences
+ - Important differences between a conversion decision and the initial choice of form.
+ - The collective goods it was providing was a nonprofit are not necessarily lost in the process
+  **Public Policy and Conversions**
+ - 
+-  
+
