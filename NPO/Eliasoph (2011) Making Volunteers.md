@@ -71,4 +71,9 @@
   ### Chapter 13 Celebrating Our Diverse, Multicultural Community 
   
      
-
+  ### Appendix 
+  - Document observable phenomena: "He crossed his legs." rather than "He looked uncomfortable."
+  - scent and texture of their words
+  - From description to explanation, first step: noticing one's own feelings; second step: putting puzzles together; third step: reading more, to
+    find resonance; forth step: so what you gonna do about it? 
+  - When descriptions are backlit by the strange glow of the absurd, they pulsate with demands for explanation. 
