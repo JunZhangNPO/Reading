@@ -86,6 +86,33 @@
  - Important differences between a conversion decision and the initial choice of form.
  - The collective goods it was providing was a nonprofit are not necessarily lost in the process
   **Public Policy and Conversions**
- - 
--  
+
+**Chapter 9 Universities as Creators and Retailers of Intellectual Property**
+- commercializing research fundings, the relationship between universities and priavte economy has changed.
+- The institutional role of universities as generators and disseminators of basic knowledge
+- US universities have long had a more practical orientation than universities in the UK or Germany
+
+**Changing Role of Universities**
+- a trained labor force, skilled in the newest technologies; creators and retailers of intellectual property.
+- This commercialization of knowledge makes universities key contributors to economic research innovation, both as resource and catalyst (Chubin, 1994, 126).
+- Universities themselves are increasingly viewed as "engines of economic development".  (Feller, 1990)
+- Physical, intellectual, and economic integration between firms and universities is so pronounced that they constitute a common technological community (Powell 1996). 
+
+**Key Factors Driving These Developments**
+-The universities most involved in the new biotechnology are among the wealthiest and most prestigious research universities. 
+- Established conceptions of knowledge and existing institutional arrangements no longer adequately fit with the current methods for the production and commercialization of science.
+- Knowledge is increasingly located in networks of relationships, and access to such networks is a key to competitive survival(Powell & Smith-Doerr, 1994)
+- A traditional disciplinary basis - Mode I; more diffuse, interdisciplinary project - Mode II
+
+**Consequences of New Mandate for Universities**
+- As universities become regarded as key contributors to economic growth, they become enmeshed in a wide array of political and economic relationships.
+- earmarking spending: hard marks and soft marks -- Community Project Funding
+
+**Thoughts**
+- Under Trump Administration, how could the role of government change
+- How can we understand these things from the perspective of nonprofit (The university's institutional characteristics are so dominant that they overshadow its identity as a nonprofit organization.)
+
+**Chapter 10 Commercialism in Nonprofit Social Service**
+- program fees, unrelated income
+- undertake sale inititatives
 
