@@ -131,8 +131,27 @@
 - heterogenous society, no consensus on which goods and services to subsidize, votes in the form of donations.
 - If benefits can be captured by prices, why should income and property-tax exemption be offered?
 - The increased emphasis on sales revenues may attract more "profits in disguise"，managerial selection process 
+- Constraints: such as research in universities;
+- Conversions: it occurs when the advantages of for-profit status outweigh the advantages of nonprofit status; who should be permitted to buy and under what procedures?
+
+  **Conclusion**
+  - For health and universities, the driving force seems to have been more basic changes in underlying institutional and economic conditions
+  - When faced with large new opportunities for commercialism, many nonprofits seem quite willing to shed their altruistic cover and assume the values and behavior of for-profits. 
 
 **Thoughts**
 - use Econ model to predict nonprofits' behavior
 - If there are new opportunities or fewer constraints, will nonprofits be more commercialized? 
-  
+
+  **Chapter 15: The Road Ahead**
+
+
+  **Assessing Framework**
+  - Becasue of mission vagueness, the actual goals pursued by a nonprofit may reflect managerial preferences.
+
+  **Implication for research**
+  - Different patterns of behavior across industries, can we genearlize it?
+  - Nonprofits objective functions: the breadth and multiplicity of goals of indivdual nonprofits, and the differences among industries; goal of reaching particular target populations; the degree of willingness to engage in production and distribution of ancillary goods
+  - budgetary constraints: the technological and market opportunities; the interdependencies among nonprofits' various revenue sources and among costs of producing various mission-related and ancillary outputs; how much and uncertainty of each revenue, the predicitability of revenue sources vary
+ 
+  **Implications for Public Policy**
+  - consensus measures of nonprofit outputs 
