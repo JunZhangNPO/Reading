@@ -116,3 +116,23 @@
 - program fees, unrelated income
 - undertake sale inititatives
 
+**Chapter 11 Commercialism among Nonprofits: Objectives, Opportunities, and Constraints**
+- Commercialism is defined to mean the degree of reliance on sales revenues rather than donations or government grants, the production of goods for sale that compete with goods produced by for-profit organizations, collaborations and partnerships with for-profits, and ultimately, conversion into for-profits.
+- It is unclear whether the large "potential profits" thereby generated were used to cross-subsidize loss-making, public-consumption goods or were simply plowed back as investments to generate more profit-making goods. (This is related to Prof. Lu's paper) 
+- Declines in donations, in some industries seem to be a consequence rather than a cause of the increased reliance on sales.
+- Constraints and large opportunities, rather than altruistic objectives and cross-subsidization, can explain the striking emergence of commercialism.
+
+**Theory**
+- Commercialization is said to be nonpreffered by nonprofits, because it involves producing goods they dislike, or charging prices that limit the consumption of goods they do like.
+- pecuniary vs, altruistic objectives
+- example of healthcare
+- 
+**Public-policy**
+- heterogenous society, no consensus on which goods and services to subsidize, votes in the form of donations.
+- If benefits can be captured by prices, why should income and property-tax exemption be offered?
+- The increased emphasis on sales revenues may attract more "profits in disguise"，managerial selection process 
+
+**Thoughts**
+- use Econ model to predict nonprofits' behavior
+- If there are new opportunities or fewer constraints, will nonprofits be more commercialized? 
+  
