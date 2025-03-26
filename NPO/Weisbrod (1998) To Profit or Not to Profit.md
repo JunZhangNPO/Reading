@@ -154,4 +154,11 @@
   - budgetary constraints: the technological and market opportunities; the interdependencies among nonprofits' various revenue sources and among costs of producing various mission-related and ancillary outputs; how much and uncertainty of each revenue, the predicitability of revenue sources vary
  
   **Implications for Public Policy**
-  - consensus measures of nonprofit outputs 
+  - consensus measures of nonprofit outputs
+  - Distinguish efficient resource reallocations from self-serving private gain. 
+  - flexible public policy, avoiding sweeping reforms, industries having nonprofit components
+  - nonprofits often see their role as performing many elements of the unfinished job of governments
+  - What happens when nonprofits' pursuit of revenue drives them to act like private firms.
+  - Missions of nonprofits engaged in commercial activities will grow more ambiguous through time (Tuckman, personal communication, 1997)
+    
+
