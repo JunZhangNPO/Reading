@@ -24,3 +24,23 @@ The New Challenge to Nonprofit America
 - These organizations deliver critical services, provide outlets for political expression, enrich the country's social and cultural life, promote norms of reciprocity,
   and contribute to the quality of national life in countless other ways as well.
   
+** Four Impulses Shaping the Future of Nonprofit America 
+*Professionalism
+- By professionalism, I mean the emphasis on specialized, subject-matter knowledge gained through formal training and delivered by paid experts. p22
+- The scientific charity movement sought to replace what was widely perceived to be the inadequacies of well-meaning volunteers with the "trained intelligence" of professionals.
+- Professionalism creates organizational structures that are hierarchic and segmented; use a management style that tends toward the bureaucratic, formal, and rule-bound; and requires the more ample and reliable resources of government and fees for support. p24
+  
+*Commercialism/Managerialism
+-The role that the commercial impulse presses on the nonprofit sector is a service role, but one that emphasizes managerial efficiency, innovation, and cost containment - dimensions that run counter to professionalism's emphasis, first and formost, on effectiveness. p25
+- This includes the use of strategic planning, quantitative measurement of outcomes, identification of market niches, and heightened attention to operational efficiency. p26 
+
+
+** The Challenges 
+entitlement program, such as Medicare, Medicaid, Unemployment Insurance, and SNAP 
+
+The overprofessionalization argument 
+- Being overly professional and thus losing touch with those they serve P49
+- redefine basic human needs as problems that only professionals can resolve p50 
+
+**  The Nonprofit Response 
+- 
