@@ -25,6 +25,10 @@ The New Challenge to Nonprofit America
   and contribute to the quality of national life in countless other ways as well.
   
 ** Four Impulses Shaping the Future of Nonprofit America 
+*Voluntarism 
+- simpllistic folklore
+- primary role is to express and inculcate velues 
+
 *Professionalism
 - By professionalism, I mean the emphasis on specialized, subject-matter knowledge gained through formal training and delivered by paid experts. p22
 - The scientific charity movement sought to replace what was widely perceived to be the inadequacies of well-meaning volunteers with the "trained intelligence" of professionals.
@@ -42,5 +46,23 @@ The overprofessionalization argument
 - Being overly professional and thus losing touch with those they serve P49
 - redefine basic human needs as problems that only professionals can resolve p50 
 
-**  The Nonprofit Response 
-- 
+**  The Nonprofit Response: A Story of Resilience 
+- Overall sector growth: higher rate than GDP
+- Commercialization:
+  - A fourth manifestation of the commercial impulse in the nonprofit sector is the growing professionalization of nonprofit operations. p76
+    - Three meanings: expansion of paid staff; the penetration of subject-matter professionals into leadership positions in organizations;
+      managerial professionalism: managerial professionals are trained in the techniques of rational management p78
+    - Penetration of the market culture into the fabric of nonprofit operations; generally incorporating the language
+    - The market culture is changing organizational practices, organizational structures, and interorganizational behavior. 
+
+**The Risks 
+- Growing Identity Crisis
+- Increased Demands on Nonprofit Managers
+- The threat of mission creep
+- Disadvantaging small agencies
+- Loss of public trust
+
+**The Road Ahead: Toward a Renewal Strategy for Nonprofit America 
+- The quality of a nation can be seen in the way it treats its most valued institutions.
+- Whether the balance that has been struck among the four impulses driving the nonprofit sector, and between the survival and distinctiveness imperatives that lie behind them. p112
+- America's nonprofit institutions require broader support in preserving the features that make them special. P112
