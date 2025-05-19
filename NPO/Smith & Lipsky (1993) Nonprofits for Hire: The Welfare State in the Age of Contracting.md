@@ -48,3 +48,11 @@ Professionalization
 health clinic status; it gives government administrators greater confidence in the legtimacy of the service contract; nonprofits ise professional capacity to protect their share of the contract market. 
   
 The individuals who now bring into reality the service side of the welfare state are the new street-level bureaucrats. p115
+
+
+** Deprofessionalization
+- compromising professional autonomy
+- The legitimacy of the service depedens upon professional autonomy
+- amateur efforts come into conflict with public demands for standards 
+- Difference between US and EU
+- 
